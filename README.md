@@ -92,7 +92,7 @@ python run.py
   "loan_period": 2,
   "interest_rate": 0.12
 }
-   
+   <h3>/payment</h3>
 {
   "loan_id": 2,
   "amount": 5000,
